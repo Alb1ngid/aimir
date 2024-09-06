@@ -4,6 +4,7 @@ p = '1', 1, 1.2, [], {}, (), False, None
 print(type(p))
 
 
+
 # def a(b):
 #     print(b)
 
